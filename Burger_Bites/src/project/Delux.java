@@ -8,7 +8,7 @@ double Deluxprice;
 int Choice;
 double DP=0,DP2=0;
 Scanner sc=new Scanner(System.in);
-public void delux() 
+public void delux()  
 {		
 	do
 	{
