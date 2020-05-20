@@ -1,6 +1,5 @@
 package project;
-
-public class Delux_price  extends Delux 
+public class Delux_price extends Delux 
 {
 	public Delux_price(int Choice)
 	{
@@ -35,4 +34,3 @@ public class Delux_price  extends Delux
     }
 
 }
- 
